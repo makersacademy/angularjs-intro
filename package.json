@@ -1,0 +1,23 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "This is the code for the [Angular JS walkthrough](https://github.com/makersacademy/Walkthroughs/blob/master/angularjs.md)",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine-core": "^2.1.2",
+    "karma-jasmine": "^0.3.2",
+    "karma-chrome-launcher": "^0.1.5",
+    "karma": "^0.12.28"
+  },
+  "devDependencies": {
+    "karma": "^0.12.28",
+    "karma-chrome-launcher": "^0.1.5",
+    "karma-jasmine": "^0.3.2",
+    "karma-phantomjs-launcher": "^0.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
